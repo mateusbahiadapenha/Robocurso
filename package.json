@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mateusbahiadapenha/Robocurso/issues"
   },
-  "homepage": "https://github.com/mateusbahiadapenha/Robocurso#readme"
+  "homepage": "https://github.com/mateusbahiadapenha/Robocurso#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
